@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Udula</h1>
 <h3 align="center">an Undergraduate at the Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka.</h3>
-(img align="right" alt="Projects" width="400" src="https://scontent.fcmb3-2.fna.fbcdn.net/v/t39.30808-6/416247983_1170803297231731_8078811051475682693_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHx1k7ECEHQwoAAQxVKFrbDefyKAkH_UIp5_IoCQf9Qir1ovU2AHr8i6EJ1bizBva1xdAjeZnbccbqekzPVaY7Q&_nc_ohc=xI6nDgLTSoAQ7kNvgGQsnB9&_nc_zt=23&_nc_ht=scontent.fcmb3-2.fna&oh=00_AYDL47rGZ74ZsANB2SbQplQqTNIdYpT_wHCbTNckHaVlCQ&oe=669B04B8
-")
+(img align="right" alt="Projects" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udula27&label=Profile%20views&color=0e75b6&style=flat" alt="udula27" /> </p>
